@@ -106,7 +106,7 @@ Soy un apasionado de la tecnología blockchain y su impacto en el mundo financie
 - [<img src="https://cryptologos.cc/logos/ethereum-eth-logo.png" alt="Krebson Security Logo" width="15"/>](https://krebsonsecurity.com) **Krebson Security**: Noticias de seguridad y análisis en profundidad.
  
 
-- [<img src="https://cryptologos.cc/logos/ethereum-eth-logo.png" alt="Hack the Box Logo" width="15"/>](https://www.hackthebox.com) **Hack the Box**: La EVM es el corazón de Ethereum y permite la ejecución de contratos inteligentes. Es fundamental para la descentralización y la automatización en blockchain.
+- [<img src="https://cryptologos.cc/logos/ethereum-eth-logo.png" alt="Hack the Box Logo" width="15"/>](https://www.hackthebox.com) **Hack the Box**: Construye y mantén equipos cibernéticos de alto rendimiento que mantengan a tu organización protegida contra amenazas del mundo real.
   
 Me entusiasma explorar y aprender más sobre estas tecnologías y su potencial transformador en diversas industrias. Si tienes preguntas o deseas discutir temas relacionados con criptomonedas o blockchain, ¡no dudes en contactarme!
 
@@ -180,4 +180,3 @@ Se hai domande, suggerimenti o vuoi parlare di sviluppo web o cybersecurity, puo
 <br>
 
 Spero che tu possa divertirti esplorando il mio repository! Grazie per la visita! 👋
-
